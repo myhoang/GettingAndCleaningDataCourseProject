@@ -58,6 +58,7 @@ From the **mean_std_set** is created a final tidy data set (**average_mean_std_s
 Output data is a data frame (**average_mean_std_set**) with 180 observations on 66 variables (68 with "Subject" and "Activity") corresponding to raw variables with labels that contain **mean()** ("Mean value"), and variables with labels that contain **std()** ("Standard deviation").
 
 This table show the raw name (described in __features_info.txt__) and tidy name (after processing step 4) of extracted variables.
+Long and descriptive names have been chosen to provide better understanding.
 
 <table border=1>
 <tr> <th>  </th> <th> Raw Names </th> <th> Tidy Names </th>  </tr>
