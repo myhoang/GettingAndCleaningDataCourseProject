@@ -47,7 +47,7 @@ Labels given from the original collectors were changed in **mean_std_set** :
 1. To obtain valid R names without parentheses, dashes and commas.
 2. To obtain more descriptive labels, as described in __features_info.txt__.
 
-See [Format of output data](#c.-format-of-output-data) for details.
+See [Format of output data](#c-format-of-output-data) for details.
 
 ### 5. Create a tidy data set
 
