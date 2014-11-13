@@ -23,7 +23,7 @@ Here are detailed descriptions of these steps.
 
 ### 1. Merge of the training and test sets
 
-Single data (**test_and_train_set**) set is obtained by merging :
+Single data set (**test_and_train_set**) is obtained by merging :
 
 * Test and training datas : __X_train.txt__, __X_test.txt__
 * Subject IDs : __subject_train.txt__, __subject_test.txt__
