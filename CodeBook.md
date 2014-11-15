@@ -6,7 +6,7 @@ Raw data collection can be found here : <https://d396qusza40orc.cloudfront.net/g
 
 Full description of these raw datas can be found in __README.txt__ file.
 A full description is also available at the site where the data was obtained :
-<http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones> 
+<http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>.
 
 ## B. Data transformation description
 

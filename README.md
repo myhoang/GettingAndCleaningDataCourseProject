@@ -4,7 +4,7 @@ README file for the ["Getting and Cleaning Data" course on Coursera](https://www
 
 ## Description of files in this repository
 
-* __CodeBook.md__: informations about raw data set, tidy data set, and data transformation made in the script __run_analysis.R__
+* __CodeBook.md__: informations about raw data set, tidy data set, and data transformation made in the script __run_analysis.R__.
 * __README.md__: this file.
 * __run_analysis.R__: R script used to transform raw data set in a tidy one.
 
