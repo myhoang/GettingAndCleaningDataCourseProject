@@ -1,5 +1,7 @@
 # Code Book for "Getting and Cleaning Data" Course Project
 
+This codebook contains informations about raw data set, tidy data set, and data transformation made in the script __run_analysis.R__.
+
 ## A. Raw data description
 
 Raw data collection can be found here : <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>.
@@ -131,4 +133,3 @@ Long and descriptive names have been chosen to provide better understanding.
   <tr> <td align="right"> 67 </td> <td> fBodyBodyGyroJerkMag-mean() </td> <td> Frequency.Domain.Body.angular.velocity.Magnitude.Mean.value </td> </tr>
   <tr> <td align="right"> 68 </td> <td> fBodyBodyGyroJerkMag-std() </td> <td> Frequency.Domain.Body.angular.velocity.Magnitude.Standard.deviation </td> </tr>
    </table>
-

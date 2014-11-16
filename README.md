@@ -17,6 +17,4 @@ README file for the ["Getting and Cleaning Data" course on Coursera](https://www
 5. Set the working directory to the repository root using **setwd()** : for exemple `setwd("~/your/directory/GettingAndCleaningDataCourseProject/")`.
 5. Install the **dplyr** package if necessary : `install.packages("dplyr")`.
 6. Run the __run_analysis.R__ : `source(file = "run_analysis.R")`.
-
-In the repository root directory you find the file `average_mean_std_set.txt` with the tidy data set.
-
+7. In the repository root directory you find the file `average_mean_std_set.txt` with the tidy data set.
